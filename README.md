@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DominicYonce22
-- 👀 I’m interested in Web Development, Problem-solving, Machine learning, I love to code
-- 🌱 I’m currently learning MERN stack, machine learning, Next.js 13
-- 💞️ I’m looking to collaborate on anything related to the above technologies
-- 📫 How to reach me 'dominijisumbonafe@gmail.com', 09275355625
+- 👀 I love Web Development, Problem-solving, Machine learning, I love to code
+- 🌱 I’m currently learning SQL and PHP to add to my tech stack, machine learning, Next.js 13
+- 📫 How to reach me 'dominijisumbonafe@gmail.com', 09942910670
 
 <!---
 DominicYonce22/DominicYonce22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
